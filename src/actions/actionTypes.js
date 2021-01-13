@@ -1,0 +1,8 @@
+/**
+ * Created by Dan Stevenson on 7/30/2017.
+ */
+export const BEGIN_AJAX_CALL = 'BEGIN_AJAX_CALL';
+export const AJAX_CALL_ERROR = 'AJAX_CALL_ERROR';
+export const LOAD_USERNAME_SUCCESS = 'LOAD_USERNAME_SUCCESS';
+export const LOAD_VENDORS_SUCCESS = 'LOAD_VENDORS_SUCCESS';
+export const LOAD_ROLES_SUCCESS = 'LOAD_ROLES_SUCCESS';
